@@ -2,7 +2,12 @@
 #include<iostream>
 using namespace std;
 
-//1、静态成员变量
+231
+2
+
+2
+
+231651+8185//1、静态成员变量
 class Person
 {
 public:
