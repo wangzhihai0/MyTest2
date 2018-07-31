@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include<iostream>
 using namespace std;
-
+放水电费第三方
 //1、静态成员变量
 class Person
 {
