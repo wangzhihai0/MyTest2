@@ -11,9 +11,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{0888967C-95A7-4351-89CD-2330E4C497DC}</ProjectGuid>
+    <ProjectGuid>{50A24365-93D3-425E-BC2F-7F947257F80B}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>My01队列的顺序存储</RootNamespace>
+    <RootNamespace>My02栈的顺序存储</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -78,13 +78,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="01 队列的顺序存储.c" />
-    <ClCompile Include="dynamicArray.c" />
-    <ClCompile Include="seqQueue.c" />
+    <ClCompile Include="02 栈的顺序存储.c" />
+    <ClCompile Include="seqStack.c" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="dynamicArray.h" />
-    <ClInclude Include="seqQueue.h" />
+    <ClInclude Include="seqStack.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

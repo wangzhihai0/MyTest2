@@ -15,21 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="01 队列的顺序存储.c">
+    <ClCompile Include="02 栈的顺序存储.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="dynamicArray.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="seqQueue.c">
+    <ClCompile Include="seqStack.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="dynamicArray.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="seqQueue.h">
+    <ClInclude Include="seqStack.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
